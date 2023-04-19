@@ -1,5 +1,6 @@
 package average;
 
+
 import java.util.Scanner;
 
 public class Average {
