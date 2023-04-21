@@ -1,7 +1,6 @@
 package reversestring;
 
 import java.util.Scanner;
-
 public class ReverseAString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,3 +15,4 @@ public class ReverseAString {
         System.out.println("Reversed string: " + reversedString);
     }
 }
+
